@@ -1,2 +1,1 @@
-#  Add your API key
-tmdb_key = "e02a98f746caa7c978b0e733968d8a27"
+tmdb_key = "d5ee8adf0d1a32b0e168a811ab86868e"
