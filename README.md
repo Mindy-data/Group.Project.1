@@ -27,3 +27,8 @@ the ride. It's not just about the numbers; it's about adaptation, entertainment,
 becoming a global comfort zone. 
 
 
+## File Locations
+- In tmdb_film you can find both tmdb_data and tmdb_analysis, in tmdb_data you can find the api call to tmdb's film API which I than exported to a CSV and in tmdb_analysis I created charts to compare revenue across the years.
+- In streaming_data you can find code which read in the csv netflix_revenue_updated and graphed the revenue and memberships which were saved in output_data/netflix_data
+- Loose in the main you can find stock_plots, stock_plots we created charts to compare stocks of AMC IMAX and Netflix whcih were all saved in output_data/stock_files
+- Finally in output_data, you can find a covid chart we used in covid_data, the charts and csv created in tmdb_film from the TMBD API, the netflix charts made in streaming_data, and stock charts and csv's saved in stock_files
