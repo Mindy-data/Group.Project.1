@@ -11,7 +11,7 @@ Erica pulled data regarding streaming services from https://www.kaggle.com/datas
 
 Our Summary is that we were able to show by time series analysis that movie revenues and movie stock prices were falling as covid numbers increased and streaming service revenues and memberships increased. We were surprised to see that movie revenue has lagged behind the 2018 and 2019 pre-pandemic totals. 
 
-Netflix's Membership Journey: Pre- and Post-Pandemic
+## Netflix's Membership Journey: Pre- and Post-Pandemic
 Before the pandemic, Netflix was already a streaming giant, proudly boasting a 
 robust membership of over 148 million in the second quarter of 2019. The platform 
 had successfully established itself as a household name, offering a diverse array of 
