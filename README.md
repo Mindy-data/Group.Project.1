@@ -25,7 +25,7 @@ doubled, reaching $8.2 billion as of the second quarter of this year.
 As the world strives to return to normalcy, Netflix is here to stay, and we're all in for 
 the ride. It's not just about the numbers; it's about adaptation, entertainment, and 
 becoming a global comfort zone. 
-=======
+
 
 ### File Locations from Riley 
 Full code is in main, I then broke it down into film_data and film_analysis. film_data contains the api call and the output of a csv file which is then analyzed in film_analysis. Both the csv from film_data and the charts from flim_analysis are found in output_data
